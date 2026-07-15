@@ -140,7 +140,7 @@ graduate_paper/
 ├── requirements.txt                 # 依存ライブラリ
 ├── LICENSE
 ├── paper/
-│   └── 演習論文_市場レジーム識別.pdf   # 論文全文（個人情報マスク済み）
+│   └── 演習論文_市場レジーム識別_v2.pdf   # 論文全文（個人情報マスク済み）
 ├── src/                             # 分析パイプライン（3ステップ）
 │   ├── step0_data_preparation.py    # データ取得・リターン計算・基礎統計
 │   ├── step1_ewma_moments.py        # EWMA 時変高次モーメントの推計
